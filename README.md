@@ -16,7 +16,7 @@ Predicts loan approval status using:
 ## 📦 Setup
 1. Clone repo:
    ```bash
-   git clone https://github.com/Rashmi2001-RS/loan-approval-prediction.git
+   git clone https://github.com/Rashmi2001-RS/Loan-Approval-Prediction-using-Neural-Networks.git
 
 Install dependencies:
 pip install -r requirements.txt
